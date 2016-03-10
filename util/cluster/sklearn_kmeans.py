@@ -9,3 +9,4 @@ Call the kmeans function is sklearn
 def call_kmeans(data, K):
     kmeans = KMeans(n_clusters=K, precompute_distances=True, n_jobs=-1)
     return kmeans.fit_predict(data)
+    
