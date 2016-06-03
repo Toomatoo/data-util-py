@@ -12,4 +12,5 @@ data.
 3. plot: examples of matplotlib (just copy not so good).
 4. cluster: kmeans and hierarchical clustering
 5. projection: PCA.
-5. Mind Map: My learning Mindmap.
+5. Mind Map: My learning Mindmap for machine learning.
+6. sgd: Stochastic Gradient Descent (projection, data generation and estimation).
